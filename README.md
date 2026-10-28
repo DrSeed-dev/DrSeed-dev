@@ -1,4 +1,4 @@
-Hey, I’m REALSEED 👋
+Hey, I’m DRSEED 👋
 
 Frontend Developer | React · Next.js · TypeScript
 
@@ -10,8 +10,6 @@ I’m continuously improving my engineering skills, exploring backend developmen
 * 🌱 Learning: Python and backend development fundamentals
 * 💡 Interested in: Frontend architecture, web performance, APIs, and AI-powered development
 * 🎯 Goal: Build reliable applications that solve real problems
-
-⸻
 
 🛠️ Tech Stack
 
@@ -32,29 +30,22 @@ Tools & Workflow
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-⸻
-
 🚀 Featured Projects
 
 🛍️ BuyNow Marketplace
-
 A Nigerian marketplace concept built to connect shoppers with products through a modern shopping experience.
 
 Stack: Next.js · React · TypeScript · Tailwind CSS · Zustand
 
 💳 Moniq
-
 A fintech landing page concept focused on modern visual design, responsive layouts, and polished interactions.
 
 Stack: React · TypeScript · Vite · Tailwind CSS
 
 📰 Current NG
-
 A news platform concept exploring content presentation and a clean reading experience.
 
 Stack: Next.js · React · TypeScript
-
-⸻
 
 🌱 Current Focus
 
@@ -64,13 +55,11 @@ Stack: Next.js · React · TypeScript
 * Learning backend development step by step
 * Building projects that combine technical quality with good user experience
 
-⸻
-
 🤝 Let’s Connect
 
-* Portfolio: REALSEED Portfolio
-* LinkedIn: Connect with me
-* GitHub: @DrSeed-dev
+* Portfolio: [@DrSeed-dev](https://drseed-portfolio.pages.dev)
+* LinkedIn: [(https://linkedin.com/in/DrSeed-dev)](https://linkedin.com/in/DrSeed-dev)
+* GitHub: 
 
 ⸻
 
