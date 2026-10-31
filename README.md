@@ -59,7 +59,6 @@ Stack: Next.js · React · TypeScript
 
 * Portfolio: [@DrSeed-dev](https://drseed-portfolio.pages.dev)
 * LinkedIn: [(https://linkedin.com/in/DrSeed-dev)](https://linkedin.com/in/DrSeed-dev)
-* GitHub: 
 
 ⸻
 
